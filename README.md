@@ -1,3 +1,14 @@
+<div>
+  <h1> Hi! I'm Italo 🖖🏻</h1>
+  <ul type="circle">
+    <li> <h3> 18 anos 🙋🏻‍♂️</h3> </li>
+    <li> <h3> Santa Luzia/MG 🏠 </h3></li>
+    <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
+  </ul>
+</div>
+
+<hr/>
+
 <div align="center"> 
   <a href="https://github.com/italovitorino"> 
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=italovitorino&show_icons=true&bg_color=0,0B1726,0E3A73&hide_border=true&title_color=fff&text_color=fff"&include_all_commits=true&count_private=true" style="max-width: 100%;"/>   
@@ -7,15 +18,6 @@
 <hr/>
 
 ![snake gif](https://github.com/italovitorino/italovitorino/blob/output/github-contribution-grid-snake.svg)
-  
-<div>
-  <h1> Hi! I'm Italo 🖖🏻</h1>
-  <ul type="circle">
-    <li> <h3> 18 anos 🙋🏻‍♂️</h3> </li>
-    <li> <h3> Santa Luzia/MG 🏠 </h3></li>
-    <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
-  </ul>
-</div>
   
 <hr/>
   
