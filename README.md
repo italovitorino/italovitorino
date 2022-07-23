@@ -9,10 +9,10 @@
 <div>
   <h1> Hi! I'm Italo 🖖🏻</h1>
   <ul type="circle">
-    <li> 18 anos 🙋🏻‍♂️</li>
-    <li> Santa Luzia/MG 🏠</li>
-    <li> Cursando Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖</li>
-    <li> Apaixonado por programação ❤️</li>
+    <li> <h3> 18 anos 🙋🏻‍♂️</h3> </li>
+    <li> <h3> Santa Luzia/MG 🏠 </h3></li>
+    <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
+    <li> <h3> Apaixonado por programação ❤️ </h3> </li>
   </ul>
 </div>
   
