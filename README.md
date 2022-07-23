@@ -5,6 +5,8 @@
 </div>
   
 <hr/>
+
+![snake gif](https://github.com/italovitorino/italovitorino/blob/output/github-contribution-grid-snake.svg)
   
 <div>
   <h1> Hi! I'm Italo 🖖🏻</h1>
