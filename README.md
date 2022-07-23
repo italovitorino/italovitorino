@@ -1,5 +1,5 @@
 <div>
-  <h1> Hi! I'm Italo 🖖🏻</h1>
+  <h1> Olá Mundo! Eu sou o Italo 🖖🏻</h1>
   <ul type="circle">
     <li> <h3> 18 anos 🙋🏻‍♂️</h3> </li>
     <li> <h3> Santa Luzia/MG 🏠 </h3></li>
