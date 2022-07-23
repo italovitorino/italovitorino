@@ -39,7 +39,7 @@
   
 <div>
   <h2> Contato ✉️</h2>
-  <a href="mailto:italo.vitorinobs@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
+  <a href="mailto:italo.vitorinobs@hotmail.com" target="_blank"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"/> </a>
 </div>
   
 <hr/>
