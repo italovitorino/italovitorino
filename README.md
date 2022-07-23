@@ -5,6 +5,8 @@
     <li> <h3> Santa Luzia/MG 🏠 </h3></li>
     <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
   </ul>
+  
+  <a href="https://www.instagram.com/italo_vbs/"> <img align="center" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/> </a>
 </div>
 
 <hr/>
