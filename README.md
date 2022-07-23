@@ -1,7 +1,7 @@
 <div> 
   <a href="https://github.com/italovitorino"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=italovitorino&show_icons=true&bg_color=0,0B1726,0E3A73&hide_border=true&title_color=fff&text_color=fff"&include_all_commits=true&count_private=true" style="max-width: 100%;"/>   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italovitorino&layout=compact&langs_count=7&bg_color=0,0B1726,0E3A73&title_color=fff&text_color=fff&hide_border=true" style="max-width: 100%;"/> 
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=italovitorino&show_icons=true&bg_color=0,0B1726,0E3A73&hide_border=true&title_color=fff&text_color=fff"&include_all_commits=true&count_private=true" style="max-width: 100%;"/>   
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italovitorino&layout=compact&langs_count=7&bg_color=0,0B1726,0E3A73&title_color=fff&text_color=fff&hide_border=true" style="max-width: 100%;"/> 
 </div>
   
 <hr/>
