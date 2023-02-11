@@ -1,7 +1,7 @@
 <div>
   <h1> Olá, Mundo! Eu sou Italo 🖖🏻</h1>
   <ul type="circle">
-    <li> <h3> 18 anos 🙋🏻‍♂️</h3> </li>
+    <li> <h3> 19 anos 🙋🏻‍♂️</h3> </li>
     <li> <h3> Belo Horizonte/MG 🏠 </h3></li>
     <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
   </ul>
