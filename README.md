@@ -39,7 +39,7 @@
   <img width="40" height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                             
   <h3> Banco de Dados </h3>
   <img width="40" height="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <h3> Versionamento de códigos </h3>
+  <h3> Versionamento de código </h3>
   <img width="40" height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
