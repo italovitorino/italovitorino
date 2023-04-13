@@ -3,7 +3,7 @@
   <ul type="circle">
     <li> <h3> 19 anos 🙋🏻‍♂️</h3> </li>
     <li> <h3> Belo Horizonte/MG 🏠 </h3></li>
-    <li> <h3> Formado Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
+    <li> <h3> Formado em Téc. em Desenvolvimento de Sistemas no SENAI-CTTI de Belo Horizonte 🤖 </h3> </li>
   </ul>
 </div>
 
